@@ -2,6 +2,7 @@
 
 
 ### Viewing Network Configuration
+
 ```sh
 ip addr show # Display all network interfaces and their IP addresses
 
